@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family: "jost";
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+
+.sect{
+    display: grid;
+    place-items: center;
+    text-align: center;
+}
+
+#sec1{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.2)
+    ), 
+    url("alfa-romeo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-attachment: fixed;
+    
+}
+
+
+#sec2{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.2)
+    ), 
+    url("ferrari.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+   
+}
+
+
+#sec3{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.2)
+    ), 
+    url("lambo.jpg");
+    background-repeat: no-repeat;
+    background-size: 120% 100%;
+    background-attachment: fixed;
+    
+}
+
+
+#sec4{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.2)
+    ), 
+    url("pagani.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
+}
+
+
+#sec5{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(
+        rgba(0,0,0,0.2),
+        rgba(0,0,0,0.2)
+    ), 
+    url("hennessey.jpg");
+    background-repeat: no-repeat;
+    background-size: 110% 100%;
+    
+}
+
+
+
+h2{
+    font-size: 64px;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 2px 2px 5px black;
+}
+
+p{
+    font-size: 20px;
+    color: #fff;
+}
