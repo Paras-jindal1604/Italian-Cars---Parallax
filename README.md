@@ -12,16 +12,16 @@ A visually engaging website that showcases the hierarchy of iconic Italian cars 
 - **HTML5** for creating the basic structure of the website.
 - **CSS3** with **Parallax Effect** for adding interactive and immersive visuals.
 
-### 🌐 Live Demo
+## 🌐 Live Demo
 You can view the live version of the website https://italiancarsbyparas-j.netlify.app/
 
-#### 🚀 Usage
+## 🚀 Usage
 Scroll through the webpage to explore the Italian car hierarchy with parallax effects.
 Enjoy the smooth transitions as you move from one car brand to another.
 
-##### 🤝 Contributing
+## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-##### ✨ Acknowledgments
+## ✨ Acknowledgments
 Inspiration from the beautiful Italian automotive industry.
 Thanks to the open-source community for the resources and guidance.
